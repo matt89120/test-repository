@@ -1,3 +1,7 @@
 more text
 
 This is a test file
+
+modified
+
+One more line
